@@ -1,0 +1,61 @@
+cross-controllers.png
+size: 486, 486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cross-flat-dark
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross-flat-light
+  rotate: false
+  xy: 1, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross-line-dark
+  rotate: false
+  xy: 1, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross-line-light
+  rotate: false
+  xy: 163, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross-shaded-dark
+  rotate: false
+  xy: 325, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross-shaded-light
+  rotate: false
+  xy: 163, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross-trans-dark
+  rotate: false
+  xy: 163, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross-trans-light
+  rotate: false
+  xy: 325, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

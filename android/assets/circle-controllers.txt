@@ -1,0 +1,117 @@
+circle-controllers.png
+size: 648, 486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+axis-flat-dark
+  rotate: false
+  xy: 325, 367
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+axis-flat-light
+  rotate: true
+  xy: 423, 163
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+axis-line-dark
+  rotate: true
+  xy: 522, 163
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+axis-line-light
+  rotate: false
+  xy: 423, 261
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+axis-shaded-dark
+  rotate: false
+  xy: 325, 163
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+axis-shaded-light
+  rotate: false
+  xy: 325, 265
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+axis-trans-dark
+  rotate: false
+  xy: 423, 360
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+axis-trans-light
+  rotate: true
+  xy: 521, 261
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+circle-flat-dark
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+circle-flat-light
+  rotate: false
+  xy: 1, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+circle-line-dark
+  rotate: false
+  xy: 1, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+circle-line-light
+  rotate: false
+  xy: 163, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+circle-shaded-dark
+  rotate: false
+  xy: 163, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+circle-shaded-light
+  rotate: false
+  xy: 163, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+circle-trans-dark
+  rotate: false
+  xy: 325, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+circle-trans-light
+  rotate: false
+  xy: 487, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
